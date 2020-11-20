@@ -1,0 +1,39 @@
+# File: calibrated_techs_bld_korea.csv
+# Title: Mapping between the sectors / services / fuels in Level1 processing to the technology names in GCAM
+# Source: Tables_Bld_Data.xlsx
+# Units: NA
+# Column types: ccccccc 
+# ----------
+supplysector,subsector,technology,minicam.energy.input,sector,fuel,service
+resid heating,biomass,wood furnace,delivered biomass,resid,biomass,resid heating
+resid heating,coal,coal furnace,delivered coal,resid,coal,resid heating
+resid heating,gas,gas furnace,delivered gas,resid,gas,resid heating
+resid heating,gas,gas furnace hi-eff,delivered gas,resid,gas,resid heating
+resid heating,electricity,electric furnace,elect_td_bld,resid,electricity,resid heating
+resid heating,electricity,electric heat pump,elect_td_bld,resid,electricity,resid heating
+resid heating,refined liquids,fuel furnace,refined liquids enduse,resid,refined liquids,resid heating
+resid heating,refined liquids,fuel furnace hi-eff,refined liquids enduse,resid,refined liquids,resid heating
+resid cooling,gas,gas cooling,delivered gas,resid,gas,resid cooling
+resid cooling,electricity,air conditioning,elect_td_bld,resid,electricity,resid cooling
+resid cooling,electricity,air conditioning hi-eff,elect_td_bld,resid,electricity,resid cooling
+resid others,gas,gas,delivered gas,resid,gas,resid others
+resid others,electricity,electricity,elect_td_bld,resid,electricity,resid others
+resid others,refined liquids,refined liquids,refined liquids enduse,resid,refined liquids,resid others
+resid others,biomass,biomass,delivered biomass,resid,biomass,resid others
+resid others,coal,coal,delivered coal,resid,coal,resid others
+comm heating,biomass,wood furnace,delivered biomass,comm,biomass,comm heating
+comm heating,coal,coal furnace,delivered coal,comm,coal,comm heating
+comm heating,gas,gas furnace,delivered gas,comm,gas,comm heating
+comm heating,gas,gas furnace hi-eff,delivered gas,comm,gas,comm heating
+comm heating,electricity,electric furnace,elect_td_bld,comm,electricity,comm heating
+comm heating,electricity,electric heat pump,elect_td_bld,comm,electricity,comm heating
+comm heating,refined liquids,fuel boiler,refined liquids enduse,comm,refined liquids,comm heating
+comm heating,refined liquids,fuel boiler hi-eff,refined liquids enduse,comm,refined liquids,comm heating
+comm cooling,gas,gas cooling,delivered gas,comm,gas,comm cooling
+comm cooling,electricity,air conditioning,elect_td_bld,comm,electricity,comm cooling
+comm cooling,electricity,air conditioning hi-eff,elect_td_bld,comm,electricity,comm cooling
+comm others,gas,gas,delivered gas,comm,gas,comm others
+comm others,electricity,electricity,elect_td_bld,comm,electricity,comm others
+comm others,refined liquids,refined liquids,refined liquids enduse,comm,refined liquids,comm others
+comm others,biomass,biomass,delivered biomass,comm,biomass,comm others
+comm others,coal,coal,delivered coal,comm,coal,comm others

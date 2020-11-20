@@ -1,0 +1,22 @@
+# File: A44.satiation_flsp_korea.csv
+# Title: Assumed satiation levels of floorspace 
+# Units: m2 per capita
+# Column types: cii 
+# ----------
+state,resid,comm
+SU,50,24
+IC,50,24
+DJ,50,24
+DG,50,24
+GJ,50,24
+BS,50,24
+US,50,24
+GG,50,24
+GW,50,24
+CB,50,24
+CN,50,24
+JB,50,24
+JN,50,24
+GB,50,24
+GN,50,24
+JJ,50,24

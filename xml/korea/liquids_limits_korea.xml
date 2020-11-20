@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="SU">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="IC">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="DJ">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="DG">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="GJ">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="BS">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="US">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="GG">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="GW">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="CB">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="CN">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="JB">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="JN">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="GB">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="GN">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+        <region name="JJ">
+            <policy-portfolio-standard name="oil-credits">
+                <market>global</market>
+                <policyType>RES</policyType>
+                <constraint year="2015">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year="2020">1</constraint>
+                <constraint year="2025">1</constraint>
+                <constraint year="2030">1</constraint>
+                <constraint year="2035">1</constraint>
+                <constraint year="2040">1</constraint>
+                <constraint year="2045">1</constraint>
+                <constraint year="2050">1</constraint>
+                <constraint year="2055">1</constraint>
+                <constraint year="2060">1</constraint>
+                <constraint year="2065">1</constraint>
+                <constraint year="2070">1</constraint>
+                <constraint year="2075">1</constraint>
+                <constraint year="2080">1</constraint>
+                <constraint year="2085">1</constraint>
+                <constraint year="2090">1</constraint>
+                <constraint year="2095">1</constraint>
+                <constraint year="2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+    </world>
+</scenario>

@@ -1,0 +1,23 @@
+# File: korea_energy_prices.csv
+# Title: korea_energy_prices
+# Source: energy/A26.globaltech_cost.csv in 2005
+# Units: 1975 USD/GJ
+# Column types: cnnn
+# ----------
+State,coal,gas,liquids
+Seoul,0.14,1.25,1.1
+Incheon,0.14,1.25,1.1
+Daejeon,0.14,1.25,1.1
+Daegu,0.14,1.25,1.1
+Gwangju,0.14,1.25,1.1
+Busan,0.14,1.25,1.1
+Ulsan,0.14,1.25,1.1
+Gyeonggi,0.14,1.25,1.1
+Gangwon,0.14,1.25,1.1
+Chungbuk,0.14,1.25,1.1
+Chungnam,0.14,1.25,1.1
+Jeonbuk,0.14,1.25,1.1
+Jeonnam,0.14,1.25,1.1
+Gyeongbuk,0.14,1.25,1.1
+Gyeongnam,0.14,1.25,1.1
+Jeju,0.14,1.25,1.1

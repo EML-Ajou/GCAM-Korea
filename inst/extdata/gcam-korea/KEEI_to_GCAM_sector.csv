@@ -1,0 +1,21 @@
+# File: KEEI_to_GCAM_sector.csv
+# Title: Convert KEEI_sector to GCAM_sector name
+# Units: NA
+# Column types: ccc
+# ----------
+KEEI_sector,GCAM_sector,description
+CC,comm,commercial sector consumption
+EG,electricity_output,electric power sector generation
+EI,electricity_input,electric power sector consumption
+IC,industry,industrial sector consumption
+IS,electricity dom imports,net electricity imports from other states (positive = import; negative = export)
+LC,corn ethanol,biofuels energy losses and coproducts
+NI,electricity intl imports,net electricity imports from other countries (positive = import; negative = export)
+PZ,gas pipeline,gas pipeline losses
+RC,resid,residential sector consumption
+BG,trn_bus_CNG,bus consumption (natural gas only)
+CG,trn_car_CNG,car consumption (natural gas only)
+RA,trn_rail,rail sector consumption
+RO,trn_road,road sector consumption
+SH,trn_ship,ship sector consumption
+AI,trn_air,air sector consumption

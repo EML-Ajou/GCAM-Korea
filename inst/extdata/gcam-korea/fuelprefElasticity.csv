@@ -1,0 +1,22 @@
+# File: fuelprefElasticity.csv
+# Title: fuelprefElasticity
+# Units: NA
+# Column types: cccin
+# ----------
+region,supplysector,subsector,year.fillout,fuelprefElasticity
+SU,industrial energy use,electricity,2015,-0.05
+IC,industrial energy use,electricity,2015,-0.05
+DJ,industrial energy use,electricity,2015,-0.05
+DG,industrial energy use,electricity,2015,-0.05
+GJ,industrial energy use,electricity,2015,-0.05
+BS,industrial energy use,electricity,2015,-0.05
+US,industrial energy use,electricity,2015,-0.05
+GG,industrial energy use,electricity,2015,-0.05
+GW,industrial energy use,electricity,2015,-0.05
+CB,industrial energy use,electricity,2015,-0.05
+CN,industrial energy use,electricity,2015,-0.05
+JB,industrial energy use,electricity,2015,-0.05
+JN,industrial energy use,electricity,2015,-0.05
+GB,industrial energy use,electricity,2015,-0.05
+GN,industrial energy use,electricity,2015,-0.05
+JJ,industrial energy use,electricity,2015,-0.05

@@ -1,0 +1,71 @@
+# File: trn_road_car_intensity.csv
+# Title: fuel intenstiy by region and mode
+# Units: BTU / Vehicle-Kilometer
+# Source: Energy: Energy Consumption Survey(2010) and VKT: TS(2010)
+# Column types: cccin
+# ----------
+GCAM_mode,stub.technology,region,year,intensity
+Compact Car,Liquids,SU,2010,4286.354605419689
+Large Car,Liquids,SU,2010,5610.232275275086
+Light Truck and SUV,Liquids,SU,2010,4924.272408551836
+Subcompact Car,Liquids,SU,2010,4481.0745213088
+Compact Car,Liquids,BS,2010,3705.9690219658105
+Large Car,Liquids,BS,2010,5523.8903154023465
+Light Truck and SUV,Liquids,BS,2010,4548.0837531557545
+Subcompact Car,Liquids,BS,2010,3610.894044769353
+Compact Car,Liquids,DG,2010,3621.880713847017
+Large Car,Liquids,DG,2010,4383.988589980837
+Light Truck and SUV,Liquids,DG,2010,4306.058155037226
+Subcompact Car,Liquids,DG,2010,3719.9810091503973
+Compact Car,Liquids,IC,2010,3765.5553865901747
+Large Car,Liquids,IC,2010,4688.828859010243
+Light Truck and SUV,Liquids,IC,2010,4517.27973235961
+Subcompact Car,Liquids,IC,2010,3882.039043486116
+Compact Car,Liquids,GJ,2010,3540.333450736353
+Large Car,Liquids,GJ,2010,4478.6673553017545
+Light Truck and SUV,Liquids,GJ,2010,4209.912886338419
+Subcompact Car,Liquids,GJ,2010,3776.8981293514867
+Compact Car,Liquids,DJ,2010,3667.801340501158
+Large Car,Liquids,DJ,2010,4755.654807629621
+Light Truck and SUV,Liquids,DJ,2010,4318.0960095840255
+Subcompact Car,Liquids,DJ,2010,3794.7186905229087
+Compact Car,Liquids,US,2010,3625.1438039235413
+Large Car,Liquids,US,2010,4594.409025396146
+Light Truck and SUV,Liquids,US,2010,4586.278432351999
+Subcompact Car,Liquids,US,2010,3558.5575395466153
+Compact Car,Liquids,GG,2010,3512.4317478803223
+Large Car,Liquids,GG,2010,4682.399351411383
+Light Truck and SUV,Liquids,GG,2010,4273.939345891714
+Subcompact Car,Liquids,GG,2010,3519.3163618769986
+Compact Car,Liquids,GW,2010,3396.2142152966876
+Large Car,Liquids,GW,2010,4457.836128210069
+Light Truck and SUV,Liquids,GW,2010,4252.733971577654
+Subcompact Car,Liquids,GW,2010,3456.3123381262803
+Compact Car,Liquids,CB,2010,3361.7682613975353
+Large Car,Liquids,CB,2010,4394.418892697977
+Light Truck and SUV,Liquids,CB,2010,4101.26495444274
+Subcompact Car,Liquids,CB,2010,3430.679217691946
+Compact Car,Liquids,CN,2010,3229.104414477296
+Large Car,Liquids,CN,2010,4296.6419003518595
+Light Truck and SUV,Liquids,CN,2010,4001.3633855417756
+Subcompact Car,Liquids,CN,2010,3290.7854557129044
+Compact Car,Liquids,JB,2010,3431.512720944295
+Large Car,Liquids,JB,2010,4297.509046337406
+Light Truck and SUV,Liquids,JB,2010,4026.4902345900555
+Subcompact Car,Liquids,JB,2010,3625.369088012625
+Compact Car,Liquids,JN,2010,3339.3523555454008
+Large Car,Liquids,JN,2010,4172.692196910908
+Light Truck and SUV,Liquids,JN,2010,3995.736322123175
+Subcompact Car,Liquids,JN,2010,3522.465485304505
+Compact Car,Liquids,GB,2010,3316.7458869016123
+Large Car,Liquids,GB,2010,4228.795998679816
+Light Truck and SUV,Liquids,GB,2010,4177.938551975797
+Subcompact Car,Liquids,GB,2010,3320.666896009357
+Compact Car,Liquids,GN,2010,3245.2916885216664
+Large Car,Liquids,GN,2010,4384.3574444802425
+Light Truck and SUV,Liquids,GN,2010,4087.2005674155002
+Subcompact Car,Liquids,GN,2010,3232.205596722508
+Compact Car,Liquids,JJ,2010,3562.0596885970735
+Large Car,Liquids,JJ,2010,4979.562131234058
+Light Truck and SUV,Liquids,JJ,2010,4635.990059785356
+Subcompact Car,Liquids,JJ,2010,3390.5841465382673

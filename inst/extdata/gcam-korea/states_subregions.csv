@@ -1,0 +1,25 @@
+# File: states_subregions.csv
+# Title: State codes-names-groupings mappings
+# Units: NA
+# Description: Mapping between state codes  state names and state groupings found in various inventories relevant for GCAM-Korea
+# grid_region: electricity grid region (n=1)
+# DIVISION: Census division (n=16)
+# Column types: ccciii
+# ----------
+state,state_name,grid_region,DIVISION
+SU,Seoul,KEPCO,1
+IC,Incheon,KEPCO,2
+DJ,Daejeon,KEPCO,3
+DG,Daegu,KEPCO,4
+GJ,Gwangju,KEPCO,5
+BS,Busan,KEPCO,6
+US,Ulsan,KEPCO,7
+GG,Gyeonggi,KEPCO,8
+GW,Gangwon,KEPCO,9
+CB,Chungbuk,KEPCO,10
+CN,Chungnam,KEPCO,11
+JB,Jeonbuk,KEPCO,12
+JN,Jeonnam,KEPCO,13
+GB,Gyeongbuk,KEPCO,14
+GN,Gyeongnam,KEPCO,15
+JJ,Jeju,KEPCO,16

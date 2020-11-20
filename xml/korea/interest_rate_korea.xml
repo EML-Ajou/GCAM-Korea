@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="SU">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="IC">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="DJ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="DG">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GJ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="BS">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="US">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GG">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GW">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="CB">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="CN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="JB">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="JN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GB">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="JJ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+    </world>
+</scenario>

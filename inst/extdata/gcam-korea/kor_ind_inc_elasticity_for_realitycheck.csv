@@ -1,0 +1,15 @@
+# File: kor_ind_inc_elasticity_for_realitycheck.csv
+# Title: kor_ind_inc_elasticity_for_realitycheck_This is for reality check. Modified income elasticity makes historical trends plausible
+# Units: Unitless(Elasticity
+# Source: Model result (Try and error
+# Column types: ccin
+# ----------
+region,energy.final.demand,year,income.elasticity
+US,industry,2015,2.2
+CN,industry,2015,7.5
+JN,industry,2015,5
+GB,industry,2015,3.5
+US,industry,2020,2.2
+CN,industry,2020,2.5
+JN,industry,2020,4
+GB,industry,2020,2.2

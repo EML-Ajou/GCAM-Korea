@@ -1,0 +1,135 @@
+# File: trn_road_car_loadfactor.csv
+# Title: loadfactor by region and mode
+# Units: PKT/VKT
+# Source: KOTI report
+# Column types: ccin
+# ----------
+GCAM_mode,region,year,loadfactor
+Compact Car,SU,2010,1.34
+Compact Car,SU,2015,1.2
+Large Car,SU,2010,1.34
+Large Car,SU,2015,1.2
+Light Truck and SUV,SU,2010,1.34
+Light Truck and SUV,SU,2015,1.2
+Subcompact Car,SU,2010,1.34
+Subcompact Car,SU,2015,1.2
+Compact Car,BS,2010,1.34
+Compact Car,BS,2015,1.15
+Large Car,BS,2010,1.34
+Large Car,BS,2015,1.15
+Light Truck and SUV,BS,2010,1.34
+Light Truck and SUV,BS,2015,1.15
+Subcompact Car,BS,2010,1.34
+Subcompact Car,BS,2015,1.15
+Compact Car,DG,2010,1.26
+Compact Car,DG,2015,1.17
+Large Car,DG,2010,1.26
+Large Car,DG,2015,1.17
+Light Truck and SUV,DG,2010,1.26
+Light Truck and SUV,DG,2015,1.17
+Subcompact Car,DG,2010,1.26
+Subcompact Car,DG,2015,1.17
+Compact Car,IC,2010,1.3
+Compact Car,IC,2015,1.17
+Large Car,IC,2010,1.3
+Large Car,IC,2015,1.17
+Light Truck and SUV,IC,2010,1.3
+Light Truck and SUV,IC,2015,1.17
+Subcompact Car,IC,2010,1.3
+Subcompact Car,IC,2015,1.17
+Compact Car,GJ,2010,1.28
+Compact Car,GJ,2015,1.21
+Large Car,GJ,2010,1.28
+Large Car,GJ,2015,1.21
+Light Truck and SUV,GJ,2010,1.28
+Light Truck and SUV,GJ,2015,1.21
+Subcompact Car,GJ,2010,1.28
+Subcompact Car,GJ,2015,1.21
+Compact Car,DJ,2010,1.29
+Compact Car,DJ,2015,1.25
+Large Car,DJ,2010,1.29
+Large Car,DJ,2015,1.25
+Light Truck and SUV,DJ,2010,1.29
+Light Truck and SUV,DJ,2015,1.25
+Subcompact Car,DJ,2010,1.29
+Subcompact Car,DJ,2015,1.25
+Compact Car,US,2010,1.29
+Compact Car,US,2015,1.22
+Large Car,US,2010,1.29
+Large Car,US,2015,1.22
+Light Truck and SUV,US,2010,1.29
+Light Truck and SUV,US,2015,1.22
+Subcompact Car,US,2010,1.29
+Subcompact Car,US,2015,1.22
+Compact Car,GG,2010,1.35
+Compact Car,GG,2015,1.27
+Large Car,GG,2010,1.35
+Large Car,GG,2015,1.27
+Light Truck and SUV,GG,2010,1.35
+Light Truck and SUV,GG,2015,1.27
+Subcompact Car,GG,2010,1.35
+Subcompact Car,GG,2015,1.27
+Compact Car,GW,2010,1.44
+Compact Car,GW,2015,1.26
+Large Car,GW,2010,1.44
+Large Car,GW,2015,1.26
+Light Truck and SUV,GW,2010,1.44
+Light Truck and SUV,GW,2015,1.26
+Subcompact Car,GW,2010,1.44
+Subcompact Car,GW,2015,1.26
+Compact Car,CB,2010,1.27
+Compact Car,CB,2015,1.29
+Large Car,CB,2010,1.27
+Large Car,CB,2015,1.29
+Light Truck and SUV,CB,2010,1.27
+Light Truck and SUV,CB,2015,1.29
+Subcompact Car,CB,2010,1.27
+Subcompact Car,CB,2015,1.29
+Compact Car,CN,2010,1.3
+Compact Car,CN,2015,1.3
+Large Car,CN,2010,1.3
+Large Car,CN,2015,1.3
+Light Truck and SUV,CN,2010,1.3
+Light Truck and SUV,CN,2015,1.3
+Subcompact Car,CN,2010,1.3
+Subcompact Car,CN,2015,1.3
+Compact Car,JB,2010,1.3
+Compact Car,JB,2015,1.27
+Large Car,JB,2010,1.3
+Large Car,JB,2015,1.27
+Light Truck and SUV,JB,2010,1.3
+Light Truck and SUV,JB,2015,1.27
+Subcompact Car,JB,2010,1.3
+Subcompact Car,JB,2015,1.27
+Compact Car,JN,2010,1.36
+Compact Car,JN,2015,1.28
+Large Car,JN,2010,1.36
+Large Car,JN,2015,1.28
+Light Truck and SUV,JN,2010,1.36
+Light Truck and SUV,JN,2015,1.28
+Subcompact Car,JN,2010,1.36
+Subcompact Car,JN,2015,1.28
+Compact Car,GB,2010,1.32
+Compact Car,GB,2015,1.22
+Large Car,GB,2010,1.32
+Large Car,GB,2015,1.22
+Light Truck and SUV,GB,2010,1.32
+Light Truck and SUV,GB,2015,1.22
+Subcompact Car,GB,2010,1.32
+Subcompact Car,GB,2015,1.22
+Compact Car,GN,2010,1.3
+Compact Car,GN,2015,1.18
+Large Car,GN,2010,1.3
+Large Car,GN,2015,1.18
+Light Truck and SUV,GN,2010,1.3
+Light Truck and SUV,GN,2015,1.18
+Subcompact Car,GN,2010,1.3
+Subcompact Car,GN,2015,1.18
+Compact Car,JJ,2010,1.34
+Compact Car,JJ,2015,1.25
+Large Car,JJ,2010,1.34
+Large Car,JJ,2015,1.25
+Light Truck and SUV,JJ,2010,1.34
+Light Truck and SUV,JJ,2015,1.25
+Subcompact Car,JJ,2010,1.34
+Subcompact Car,JJ,2015,1.25

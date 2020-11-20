@@ -1,0 +1,38 @@
+# File: A23.subsectorShrwt.csv
+# Title: future subsector shrwt
+# Units: NA
+# Column types: cccin
+# ----------
+region,supplysector,subsector,year,share.weight
+SU,electricity,coal,2015,0
+IC,electricity,coal,2015,0.8
+DJ,electricity,coal,2015,0
+DG,electricity,coal,2015,0
+GJ,electricity,coal,2015,0
+BS,electricity,coal,2015,0
+US,electricity,coal,2015,0
+GG,electricity,coal,2015,0
+GW,electricity,coal,2015,0.8
+CB,electricity,coal,2015,0
+CN,electricity,coal,2015,0.8
+JB,electricity,coal,2015,0
+JN,electricity,coal,2015,0.8
+GB,electricity,coal,2015,0
+GN,electricity,coal,2015,0.8
+JJ,electricity,coal,2015,0
+SU,electricity,gas,2015,1
+IC,electricity,gas,2015,1
+DJ,electricity,gas,2015,1
+DG,electricity,gas,2015,1
+GJ,electricity,gas,2015,1
+BS,electricity,gas,2015,1
+US,electricity,gas,2015,1
+GG,electricity,gas,2015,2
+GW,electricity,gas,2015,1
+CB,electricity,gas,2015,1
+CN,electricity,gas,2015,1
+JB,electricity,gas,2015,1
+JN,electricity,gas,2015,1
+GB,electricity,gas,2015,1
+GN,electricity,gas,2015,1
+JJ,electricity,gas,2015,0

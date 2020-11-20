@@ -1,0 +1,33 @@
+# File: A23.globaltech_OMfixed.csv
+# Title: Electricity technology fixed operations and maintenance costs
+# Units: 1975$/kW/yr
+# Source: GCAM assumptions; developed from assumptions to NEMS model in support of the Annual Energy Outlook (https://www.eia.gov/outlooks/aeo/assumptions/pdf/electricity.pdf).
+# Future improvement is based on the maximum % reduction that the literature deems likely and a rate corresponding to the maturity level of the technology
+# Note that some technologies are the same as another with additional equipment (i.e. CCS) for those technologies the improvement is on the additional equipment
+# Column types: ccccnnnnnnnc 
+# ----------
+supplysector,subsector,technology,input.OM.fixed,1971,1990,2005,2010,2015,improvement.max,improvement.rate,improvement.shadow.technology
+electricity,coal,coal (conv pul),OM-fixed,8.83,8.83,8.83,7.75,7.75,1.00,0.01,
+electricity,coal,coal (conv pul CCS),OM-fixed,15.49,15.49,15.49,15.49,15.49,0.75,0.01,coal (conv pul)
+electricity,coal,coal (IGCC),OM-fixed,12.40,12.40,12.40,10.84,10.84,0.75,0.01,
+electricity,coal,coal (IGCC CCS),OM-fixed,14.22,14.22,14.22,21.69,21.69,0.75,0.01,coal (IGCC)
+electricity,gas,gas (steam/CT),OM-fixed,3.63,3.63,3.63,1.86,1.86,0.60,0.05,
+electricity,gas,gas (CC),OM-fixed,3.88,3.88,3.88,3.10,3.10,0.60,0.05,
+electricity,gas,gas (CC CCS),OM-fixed,4.29,4.29,4.29,6.20,6.20,0.60,0.05,gas (CC)
+electricity,refined liquids,refined liquids (steam/CT),OM-fixed,3.63,3.63,3.63,1.86,1.86,0.75,0.01,
+electricity,refined liquids,refined liquids (CC),OM-fixed,11.16,11.16,11.16,3.10,3.10,0.75,0.01,
+electricity,refined liquids,refined liquids (CC CCS),OM-fixed,12.02,12.02,12.02,7.37,7.37,0.60,0.05,refined liquids (CC)
+electricity,biomass,biomass (conv),OM-fixed,9.09,9.09,9.09,29.43,29.43,0.75,0.01,
+electricity,biomass,biomass (conv CCS),OM-fixed,35.96,35.96,35.96,35.96,35.96,0.60,0.05,biomass (conv)
+electricity,biomass,biomass (IGCC),OM-fixed,12.77,12.77,12.77,43.38,43.38,0.70,0.03,
+electricity,biomass,biomass (IGCC CCS),OM-fixed,14.33,14.33,14.33,52.51,52.51,0.60,0.05,biomass (IGCC)
+electricity,nuclear,Gen_II_LWR,OM-fixed,22.02,22.02,22.02,32.53,32.53,1.00,0.00,
+electricity,nuclear,Gen_III,OM-fixed,21.77,21.77,21.77,29.43,29.43,0.75,0.01,
+electricity,wind,wind,OM-fixed,3.75,3.75,3.75,15.49,15.49,0.70,0.01,
+electricity,wind,wind_storage,OM-fixed,8.63,8.63,8.63,18.59,18.59,0.70,0.01,wind
+electricity,solar,PV,OM-fixed,8.93,8.93,8.93,12.39,12.39,0.70,0.03,
+electricity,solar,PV_storage,OM-fixed,17.42,17.42,17.42,14.87,14.87,0.70,0.03,PV
+electricity,solar,CSP,OM-fixed,16.62,16.62,16.62,17.04,17.04,0.60,0.05,
+electricity,solar,CSP_storage,OM-fixed,16.62,16.62,16.62,20.14,20.14,0.70,0.03,CSP
+electricity,geothermal,geothermal,OM-fixed,23.54,23.54,23.54,30.98,30.98,0.75,0.01,
+elect_td_bld,rooftop_pv,rooftop_pv,OM-fixed,46.77,46.77,46.77,18.59,18.59,0.70,0.03,

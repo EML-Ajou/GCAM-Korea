@@ -1,0 +1,24 @@
+# File: korea_re_capacity_factors.csv
+# Title: Capacity factors by state by renewable technology
+# Units: Unitless
+# Source: 한국에너지공단/ 신재생에너지보급통계 2017
+# Comments: (generation*1000)/(capacity*365*24) generation(MWh) Capacity(kW
+# Column types: cnnnnnn
+# 
+State,Urban_Utility_scale_PV,Rural_Utility_scale_PV,Rooftop_PV,CSP,Onshore_Wind,Offshore_Wind
+Seoul,0.14,0.14,0.2,0,0.23,0
+Incheon,0.13,0.13,0.2,0,0.12,0
+Daejeon,0.13,0.13,0.2,0,0.23,0
+Daegu,0.14,0.14,0.2,0,0.24,0
+Gwangju,0.14,0.14,0.2,0,0.23,0
+Busan,0.15,0.15,0.2,0,0.06,0
+Ulsan,0.11,0.11,0.2,0,0.16,0
+Gyeonggi,0.13,0.13,0.2,0,0.12,0
+Gangwon,0.12,0.12,0.2,0,0.25,0
+Chungbuk,0.13,0.13,0.2,0,0.23,0
+Chungnam,0.13,0.13,0.2,0,0.17,0
+Jeonbuk,0.14,0.14,0.2,0,0.12,0
+Jeonnam,0.15,0.15,0.2,0,0.17,0
+Gyeongbuk,0.14,0.14,0.2,0,0.24,0
+Gyeongnam,0.14,0.14,0.2,0,0.19,0
+Jeju,0.13,0.13,0.2,0,0.22,0

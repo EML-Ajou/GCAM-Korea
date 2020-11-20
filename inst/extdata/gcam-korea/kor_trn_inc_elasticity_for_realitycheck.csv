@@ -1,0 +1,39 @@
+# File: kor_trn_inc_elasticity_for_realitycheck.csv
+# Title: kor_trn_inc_elasticity_for_realitycheck_This is for reality check. Modified income elasticity makes historical trends plausible
+# Units: Unitless(Elasticity
+# Source: Model result (Try and error
+# Column types: ccin
+# ----------
+region,energy.final.demand,year,income.elasticity
+SU,trn_pass,2020,1
+IC,trn_pass,2020,4
+DJ,trn_pass,2020,1
+DG,trn_pass,2020,2
+GJ,trn_pass,2020,1
+BS,trn_pass,2020,1
+US,trn_pass,2020,10
+GG,trn_pass,2020,2
+GW,trn_pass,2020,1
+CB,trn_pass,2020,1
+CN,trn_pass,2020,1
+JB,trn_pass,2020,4
+JN,trn_pass,2020,4
+GB,trn_pass,2020,4
+GN,trn_pass,2020,4
+JJ,trn_pass,2020,1
+SU,trn_freight,2020,0.75
+IC,trn_freight,2020,3
+DJ,trn_freight,2020,0.75
+DG,trn_freight,2020,1.5
+GJ,trn_freight,2020,0.75
+BS,trn_freight,2020,0.75
+US,trn_freight,2020,7.5
+GG,trn_freight,2020,1.5
+GW,trn_freight,2020,0.75
+CB,trn_freight,2020,0.75
+CN,trn_freight,2020,0.75
+JB,trn_freight,2020,3
+JN,trn_freight,2020,3
+GB,trn_freight,2020,3
+GN,trn_freight,2020,3
+JJ,trn_freight,2020,0.75

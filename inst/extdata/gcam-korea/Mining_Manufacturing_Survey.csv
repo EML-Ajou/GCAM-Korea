@@ -1,0 +1,39 @@
+# File: Mining_Manufacturing_Survey.csv
+# Title: Value of Shipments from Manufacturing by State
+# Units: Million won 2011
+# Source: Statistics Korea/Mining and Manufacturing Survey 2011
+# Column types: cccnn
+# ----------
+state,code,industry,year,VoS
+SU,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,395223
+BS,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,1223546
+DG,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,234709
+IC,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,2184737
+GJ,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,78552
+DJ,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,1777577
+US,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,48188063
+GG,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,15663032
+GW,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,289624
+CB,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,5073372
+CN,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,21828554
+JB,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,7561012
+JN,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,39243363
+GB,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,7263971
+GN,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,1896841
+JJ,c20,Manufacture of chemicals and chemical products except pharmaceuticals and medicinal chemicals,2011,27338
+SU,c23,Manufacture of Other Non-metallic Mineral Products,2011,260267
+BS,c23,Manufacture of Other Non-metallic Mineral Products,2011,451325
+DG,c23,Manufacture of Other Non-metallic Mineral Products,2011,359617
+IC,c23,Manufacture of Other Non-metallic Mineral Products,2011,1052432
+GJ,c23,Manufacture of Other Non-metallic Mineral Products,2011,129161
+DJ,c23,Manufacture of Other Non-metallic Mineral Products,2011,235426
+US,c23,Manufacture of Other Non-metallic Mineral Products,2011,347940
+GG,c23,Manufacture of Other Non-metallic Mineral Products,2011,6200628
+GW,c23,Manufacture of Other Non-metallic Mineral Products,2011,2240500
+CB,c23,Manufacture of Other Non-metallic Mineral Products,2011,2884744
+CN,c23,Manufacture of Other Non-metallic Mineral Products,2011,6801934
+JB,c23,Manufacture of Other Non-metallic Mineral Products,2011,1511993
+JN,c23,Manufacture of Other Non-metallic Mineral Products,2011,1490691
+GB,c23,Manufacture of Other Non-metallic Mineral Products,2011,4758055
+GN,c23,Manufacture of Other Non-metallic Mineral Products,2011,1826951
+JJ,c23,Manufacture of Other Non-metallic Mineral Products,2011,179347

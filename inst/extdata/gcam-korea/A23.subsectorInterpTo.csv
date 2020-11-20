@@ -1,0 +1,22 @@
+# File: A23.subsectorInterpTo.csv
+# Title: interpolation rule
+# Units: NA
+# Column types: cccciinc
+# ----------
+region,supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+SU,electricity,gas,share-weight,2020,2100,1,linear
+IC,electricity,gas,share-weight,2020,2100,1,linear
+DJ,electricity,gas,share-weight,2020,2100,1,linear
+DG,electricity,gas,share-weight,2020,2100,1,linear
+GJ,electricity,gas,share-weight,2020,2100,1,linear
+BS,electricity,gas,share-weight,2020,2100,1,linear
+US,electricity,gas,share-weight,2020,2100,1,linear
+GG,electricity,gas,share-weight,2020,2100,1,linear
+GW,electricity,gas,share-weight,2020,2100,1,linear
+CB,electricity,gas,share-weight,2020,2100,1,linear
+CN,electricity,gas,share-weight,2020,2100,1,linear
+JB,electricity,gas,share-weight,2020,2100,1,linear
+JN,electricity,gas,share-weight,2020,2100,1,linear
+GB,electricity,gas,share-weight,2020,2100,1,linear
+GN,electricity,gas,share-weight,2020,2100,1,linear
+JJ,electricity,gas,share-weight,2020,2100,1,linear

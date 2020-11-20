@@ -1,0 +1,22 @@
+# File: A23.subsectorFixedInterp.csv
+# Title: fixed interpolation rule
+# Units: NA
+# Column types: cccciic
+# ----------
+region,supplysector,subsector,apply.to,from.year,to.year,interpolation.function
+SU,electricity,coal,share-weight,2015,2100,fixed
+IC,electricity,coal,share-weight,2015,2100,fixed
+DJ,electricity,coal,share-weight,2015,2100,fixed
+DG,electricity,coal,share-weight,2015,2100,fixed
+GJ,electricity,coal,share-weight,2015,2100,fixed
+BS,electricity,coal,share-weight,2015,2100,fixed
+US,electricity,coal,share-weight,2015,2100,fixed
+GG,electricity,coal,share-weight,2015,2100,fixed
+GW,electricity,coal,share-weight,2015,2100,fixed
+CB,electricity,coal,share-weight,2015,2100,fixed
+CN,electricity,coal,share-weight,2015,2100,fixed
+JB,electricity,coal,share-weight,2015,2100,fixed
+JN,electricity,coal,share-weight,2015,2100,fixed
+GB,electricity,coal,share-weight,2015,2100,fixed
+GN,electricity,coal,share-weight,2015,2100,fixed
+JJ,electricity,coal,share-weight,2015,2100,fixed

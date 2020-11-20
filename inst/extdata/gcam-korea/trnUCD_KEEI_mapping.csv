@@ -1,0 +1,20 @@
+# File: trnUCD_KEEI_mapping.csv
+# Title: Mapping KEEI sector and fuel codes to UCD mode and fuel
+# Units: NA
+# Column types: cccc
+# ----------
+mode,fuel,KEEI_sector,KEEI_fuel
+Air Domestic,refined liquids,AI,RL
+Air International,refined liquids,AI,RL
+Bus,gas,BG,GS
+Bus,refined liquids,RO,RL
+HSR,electricity,RA,EL
+LDV_2W,refined liquids,RO,RL
+LDV_4W,gas,CG,GS
+LDV_4W,refined liquids,RO,RL
+Rail,coal,RA,CL
+Rail,electricity,RA,EL
+Rail,refined liquids,RA,RL
+Ship Domestic,refined liquids,SH,RL
+Ship International,refined liquids,SH,RL
+Truck,refined liquids,RO,RL

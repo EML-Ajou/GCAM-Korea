@@ -1,0 +1,17 @@
+# File: A44.globaltech_intgains.csv
+# Title: Internal gain ratios
+# Units: Unitless (heat released per unit of energy input)
+# Note: this table should include all techs of non-thermal services (even zeroes)
+# Column types: cccn
+# ----------
+supplysector,subsector,technology,input.ratio
+resid others,gas,gas,0.5
+resid others,electricity,electricity,0.5
+resid others,refined liquids,refined liquids,0.5
+resid others,biomass,biomass,0.5
+resid others,coal,coal,0.5
+comm others,gas,gas,0.5
+comm others,electricity,electricity,0.5
+comm others,refined liquids,refined liquids,0.5
+comm others,biomass,biomass,0.5
+comm others,coal,coal,0.5

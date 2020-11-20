@@ -1,0 +1,20 @@
+# File: KEEI_to_GCAM_fuel.csv
+# Title: Convert KEEI_fuel to GCAM_fuel name
+# Units: NA
+# Column types: ccc
+# ----------
+KEEI_fuel,GCAM_fuel,description
+RL,refined liquids,aggregated_refined liquids
+RC,refined liquids (const feed),aggregated_refined liquids (const feed)
+CL,coal,aggregated_coal
+OL,crude oil,aggregated_crude oil
+EL,electricity,aggregated_electricity
+RT,refined liquids (ethanol),aggregated_refined liquids (ethanol)
+RP,refined liquids (petchem feed),aggregated_refined liquids (petchem feed)
+GT,geothermal,aggregated_geothermal
+HD,hydro,aggregated_hydro
+GS,gas,aggregated_gas
+NC,nuclear,aggregated_nuclear
+SL,solar,aggregated_solar
+BM,biomass,aggregated_biomass
+WN,wind,aggregated_wind

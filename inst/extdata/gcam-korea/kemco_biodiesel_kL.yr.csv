@@ -1,0 +1,23 @@
+# File: kemco_biodiesel_kL.yr.csv
+# Title: 2.7.3  2015년 신규 보급용량
+# Source: 한국에너지공단/2017년 신재생에너지보급통계
+# Units: kiloliter per year
+# Column types: ci
+# ----------
+state,kl/yr
+SU,120624
+IC,65888
+DJ,24525
+DG,43364
+GJ,24380
+BS,48507
+US,23415
+GG,212612
+GW,28479
+CB,29049
+CN,38322
+JB,33501
+JN,35044
+GB,45389
+GN,60848
+JJ,16635
