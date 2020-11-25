@@ -15,7 +15,6 @@
 #### R Pacakge
 * Name of Package: <code>gcamkordata</code>
 * Software required: R version 3.1.2 or higher
-* Publication: [Jeon, S., Roh, M., Oh, J., & Kim, S. (2020). Development of an Integrated Assessment Model at Provincial Level: GCAM-Korea. Energies, 13(10), 2565.](https://doi.org/10.3390/en13102565).
 
 #### How to install gcamkordata and make input files of GCAM
 ```R
