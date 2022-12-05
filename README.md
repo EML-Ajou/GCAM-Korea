@@ -31,10 +31,10 @@ driver(stop_after = "module_gcam.korea_batch_socioeconomics_xml")
 ```
 #### How to simulate GCAM
 1. Make XML files according to the above instructions.<br/>
-2. Download [GCAM 5.1.3](https://github.com/JGCRI/gcam-core/releases).<br/>
+2. Download [GCAM 5.3](https://github.com/JGCRI/gcam-core/releases).<br/>
 3. Copy XML files and folder in <working dir/xml>, and then paste into <gcam-v5.1.3-Windows-Release-Package/gcamdata/xml>.<br/>
 4. An [input configuration file](https://github.com/rohmin9122/gcam-korea-release/blob/master/configuration-gcamkorea.xml) is included in the working directory.<br/> 
-5. Please refer to [GCAM 5.1.3 instruction](https://jgcri.github.io/gcam-doc/toc.html) for running GCAM.<br/>
+5. Please refer to [GCAM 5.3 instruction](https://jgcri.github.io/gcam-doc/toc.html) for running GCAM.<br/>
 
 
 
